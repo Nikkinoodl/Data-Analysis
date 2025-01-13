@@ -11,4 +11,4 @@ Whenever possible, each chart was created to answer a business question. Inconsi
 By doing that, the analysis moved away from simple graphing of the data and became a way to understand the data from a more nuanced business viewpoint:
 ![Table-1](https://github.com/user-attachments/assets/ecabb01e-94d0-4a68-887d-da1e0880e5fc)
 ![Graph-1](https://github.com/user-attachments/assets/b2442b99-1b66-4571-8c5c-4344d14ca019)
-Splitting analysis between employee and no-employee users showed that the response from the more technology savvy users was different from that of the general public.
+Splitting analysis between employee and non-employee users showed that the response from the more technology savvy users was different from that of the general public.
