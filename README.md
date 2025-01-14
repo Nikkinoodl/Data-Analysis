@@ -1,7 +1,10 @@
 # Data-Analysis
 The Excel workbook contains a sample of a chatbot data analysis.
+
 Raw data was downloaded from a production database and uploaded to tables in an Access database. Views were created to summarize the 50MB dataset. The summarized data was then uploaded to tables in Microsoft Excel using Microsoft PowerQuery, from where the final summarization and analysis was done.
+
 The analysis was used to help in decision making and to give an overall view of progress rather than as a polished management presentation. Wherever possible, each chart or summary table was created to answer a business question.
+
 In this example, I created a bin for those with more than 5 conversations to roll-up the outliers and make the data easier to graph:
 <p align="center"><img src="https://github.com/user-attachments/assets/1c5e524a-e068-42e9-8ee6-c1cc89f488c4" alt="Graph-3"></p> 
 Simple linear regression was performed to help understand trends--this shows the results for just one of sixteen chatbots:
